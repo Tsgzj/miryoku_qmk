@@ -1,4 +1,4 @@
-name: 'Build Example contra'
+name: 'Build Skeletyl'
 on:
   - workflow_dispatch
 jobs:
