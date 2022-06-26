@@ -6,6 +6,6 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["bastardkb/skeletyl"]'
-      alphas: '["dvorak"]'
       nav: '["vi"]'
+      alphas: '["dvorak"]'
       
