@@ -3,7 +3,7 @@ on:
   - workflow_dispatch
 jobs:
   build:
-    uses: ./.github/workflows/build-skeletyl.yml
+    uses: ./.github/workflows/main.yml
     with:
       keyboard: '["bastardkb/skeletyl"]'
       nav: '["VI"]'
